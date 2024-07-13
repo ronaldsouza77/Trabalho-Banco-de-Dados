@@ -1,4 +1,4 @@
-Projeto Prático Banco de Dados - Concessionária Veíuculos
+Projeto Prático Banco de Dados - Concessionária Veículos
 Trabalho prático realizado na disciplina GCC214 - Introdução a Sistemas de Banco de Dados
 
 Sobre:
